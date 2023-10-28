@@ -11,6 +11,7 @@ import javax.swing.table.TableRowSorter;
 
 // author is yuvraj and made in netbeans and also with team
 // and trying to make this as collobrative software chages done
+// opened in netbeans
 public class StudentInventory extends javax.swing.JFrame {
 
   
