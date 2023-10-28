@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 
 // author is yuvraj and made in netbeans and also with team
-// and trying to make this as collobrative software
+// and trying to make this as collobrative software chages done
 public class StudentInventory extends javax.swing.JFrame {
 
   
