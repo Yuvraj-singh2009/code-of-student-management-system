@@ -9,7 +9,7 @@ import javax.swing.RowFilter;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 
-// author is yuvraj and made in netbeans
+// author is yuvraj and made in netbeans and also with team
 public class StudentInventory extends javax.swing.JFrame {
 
   
