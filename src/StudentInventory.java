@@ -9,12 +9,10 @@ import javax.swing.RowFilter;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 
-// author 
+// author Yuvraj
 public class StudentInventory extends javax.swing.JFrame {
 
-    /**
-     * Creates new form StudentInventory
-     */
+  
     int cols,cols1,cols2 =0;
     ResultSet rs = null;
     ResultSet rs1 = null;
