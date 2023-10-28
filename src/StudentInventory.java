@@ -13,7 +13,7 @@ import javax.swing.table.TableRowSorter;
 // and trying to make this as collobrative software chages done
 // opened in netbeans
 
-
+// next tutorial of github
 
 // this is to trying pull request
 public class StudentInventory extends javax.swing.JFrame {
